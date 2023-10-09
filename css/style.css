@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+
+}
+
+html {
+    background-color: #050505;
+}
+
+.banner {
+    background: linear-gradient (180deg, rgba(14, 13, 13, 0.6) 0%, rgba(49, 168, 221, 0) 100%);
+    ;
+
+    background-image: url(/trilha-css-desafio-01-main/assets/images/banner.png);
+
+    text-align: center;
+    padding: 5em;
+
+}
+
+h1 {
+    color: #33A8DB;
+    text-transform: uppercase;
+    font: lucida, 40px;
+    text-align: center;
+    padding: 1em;
+}
+
+
+button {
+    border: 3px solid #31A8DD;
+    padding: 1em;
+    background-color: #050505;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+header {
+    border-bottom: 2px solid #31A8DD;
+}
+
+#course-content {
+
+    text-align: center;
+
+}
+
+h2 {
+    color: #33A8DB;
+    text-transform: uppercase;
+    font: lucida, 40px;
+    text-align: center;
+    padding: 1em;
+}
+
+.modules-list {
+    width: 792px;
+    height: 325px;
+    color: #FFFFFF;
+    gap: 24px;
+    margin: auto;
+}
+
+.module {
+    border: 1px solid #33A8DB;
+    box-shadow: -2px 6px 4px 0px #00000066 inset;
+    border-radius: 57px;
+    padding: 16px 127px 16px 127px;
+    gap: 10px;
+    width: 537px;
+    height: 41px;
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 1em;
+
+}
+
+span {
+    color: #33A8DB
+}
+
+#transform-world {
+    background-image: url(/trilha-css-desafio-01-main/assets/images/woman-code.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 563px;
+    background-attachment: fixed;
+
+}
+
+.transformes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 240px;
+    color: #FFFFFF;
+    padding-left: 4em;
+    font-size: 26px;
+    text-shadow: 5px 5px 4px rgb(190, 7, 7);
+
+}
+
+.homem {
+
+    align-items: center;
+    margin-left: 25%;
+}
+
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 2em;
+
+}
+
+footer {
+    width: 1440px;
+    height: 170px;
+    top: 2321px;
+
+}
+
+.dio-logo {
+    margin-left: 40%;
+    padding-top: 3em;
+
+}
